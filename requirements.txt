@@ -1,0 +1,3 @@
+SpeechRecognition
+g4f
+pyttsx3
